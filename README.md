@@ -19,3 +19,12 @@ Instructions
 Great work implementing a graph. When tackling complex problems, it’s a massive advantage if you can model the problem as a graph.
 
 You’ll see this data structure often while working on algorithms, especially those that focus on networks.
+
+# GRAPH SEARCH: PYTHON
+Graph Search Python: Review
+Take a look at the two graph search functions you implemented in Python:
+
+depth-first search, using recursion
+breadth-first search, using a queue
+Instructions
+Before running the code in the code editor, consider: what solution do you expect each function to come up with?
